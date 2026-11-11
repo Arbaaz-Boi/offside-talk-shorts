@@ -13,7 +13,7 @@ Source: study of the top 10 Shorts of 20 channels with 20+ Shorts over 1M views 
 ## Plan (status: [ ] = open, [x] = done with date and link)
 Format: - [ ] # | title | first-frame hook | modeled on (views) | style | comment question
 
-- [ ] 1 | What Happens When Food Goes Down the Wrong Pipe 😳 | YOUR BODY HAS 0.5 SECONDS | Swallowing Down The Wrong Pipe, Zack D. Films (86.6M) | inside-out | Has this ever happened to you while laughing? Yes or no 👇
+- [x] 2026-11-11 https://www.youtube.com/watch?v=2Ism6dwjRls 1 | What Happens When Food Goes Down the Wrong Pipe 😳 | YOUR BODY HAS 0.5 SECONDS | Swallowing Down The Wrong Pipe, Zack D. Films (86.6M) | inside-out | Has this ever happened to you while laughing? Yes or no 👇
 - [ ] 2 | Why Cotton Swabs Can Make You Deaf 😳 | STOP DOING THIS TO YOUR EARS | Cotton Swab, Professor Of How (138.9M); Ear Wax Gone Wrong, Medical Arts (64.7M) | inside-out | Be honest: do you still use cotton swabs in your ears? 👇
 - [ ] 3 | The 30-Hour Journey of Your Last Meal 😳 | YOUR PIZZA IS STILL INSIDE YOU | 30-Hour Journey From Bite, Medical Arts (162.3M) | deep-dive | What was the last thing you ate? 👇
 - [ ] 4 | What a Tooth Abscess Does Inside Your Jaw 😳 | THIS IS WHY IT HURTS SO MUCH | Root Canal & Tooth Abscess, Medical Arts (238.2M) | deep-dive | Have you ever had a root canal? Rate the pain 1-10 👇
