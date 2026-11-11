@@ -27,3 +27,5 @@ Format: - channel name | channel id | https://www.youtube.com/channel/<id> | fir
 - MORGAR - Human History | UCvi8HuBzJ9sasUx2x7uLaVQ | https://www.youtube.com/channel/UCvi8HuBzJ9sasUx2x7uLaVQ | 2026-11-09 | 20-channel study: 20th-best Short 4.8M
 - Bugs | UC-QtnQv2zuFRSrWbjyvPTnQ | https://www.youtube.com/channel/UC-QtnQv2zuFRSrWbjyvPTnQ | 2026-11-09 | 20-channel study: 20th-best Short 7.8M
 - Armature Studios | UCTPw2bTaW46EtxyC2SC5EKA | https://www.youtube.com/channel/UCTPw2bTaW46EtxyC2SC5EKA | 2026-11-09 | 20-channel study: 20th-best Short 5.6M
+- Leo And Teo Know Why | UCmz3M_uVkFQSPyXCACW74QQ | https://www.youtube.com/channel/UCmz3M_uVkFQSPyXCACW74QQ | 2026-11-11 | "Why Do We Wake Up With Eye Boogers?" (2.3M)
+- Dr. Tie | UCR2fdmvYdss-9xnpojpGXKg | https://www.youtube.com/channel/UCR2fdmvYdss-9xnpojpGXKg | 2026-11-11 | "What If You Built a Dog With 3 Heads?!" (1.3M)
