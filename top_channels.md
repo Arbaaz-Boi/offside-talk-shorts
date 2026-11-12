@@ -29,3 +29,6 @@ Format: - channel name | channel id | https://www.youtube.com/channel/<id> | fir
 - Armature Studios | UCTPw2bTaW46EtxyC2SC5EKA | https://www.youtube.com/channel/UCTPw2bTaW46EtxyC2SC5EKA | 2026-11-09 | 20-channel study: 20th-best Short 5.6M
 - Leo And Teo Know Why | UCmz3M_uVkFQSPyXCACW74QQ | https://www.youtube.com/channel/UCmz3M_uVkFQSPyXCACW74QQ | 2026-11-11 | "Why Do We Wake Up With Eye Boogers?" (2.3M)
 - Dr. Tie | UCR2fdmvYdss-9xnpojpGXKg | https://www.youtube.com/channel/UCR2fdmvYdss-9xnpojpGXKg | 2026-11-11 | "What If You Built a Dog With 3 Heads?!" (1.3M)
+- Aquish | UCtgbDf0DqeUnED6_W9v9HkA | https://www.youtube.com/channel/UCtgbDf0DqeUnED6_W9v9HkA | 2026-11-12 | "What If You Fell Overboard?" (3.0M)
+- Oddly Crucial | UCZIKsdAjJhPbM3ZnBGn7rew | https://www.youtube.com/channel/UCZIKsdAjJhPbM3ZnBGn7rew | 2026-11-12 | "If You Fart in a Silent Elevator…" (2.4M)
+- Mr saifur | UCbeTCKWG0ctK2D7GnoUe1Iw | https://www.youtube.com/channel/UCbeTCKWG0ctK2D7GnoUe1Iw | 2026-11-12 | "What If You Swallow a Live Fish" (1.9M)
