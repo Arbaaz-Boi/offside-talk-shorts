@@ -33,3 +33,5 @@ Format: - channel name | channel id | https://www.youtube.com/channel/<id> | fir
 - Oddly Crucial | UCZIKsdAjJhPbM3ZnBGn7rew | https://www.youtube.com/channel/UCZIKsdAjJhPbM3ZnBGn7rew | 2026-11-12 | "If You Fart in a Silent Elevator…" (2.4M); "If You Trip in Front of a Crowd…" (1.7M)
 - Mr saifur | UCbeTCKWG0ctK2D7GnoUe1Iw | https://www.youtube.com/channel/UCbeTCKWG0ctK2D7GnoUe1Iw | 2026-11-12 | "What If You Swallow a Live Fish" (1.9M)
 - Unhinged Physics | UC-geqTUprKLTqwhqKgF2Mjg | https://www.youtube.com/channel/UC-geqTUprKLTqwhqKgF2Mjg | 2026-11-13 | "What if you were Napoleon?" (1.7M)
+- Sparkfact | UC35MjA4fL1mED4k_g5VYDJg | https://www.youtube.com/channel/UC35MjA4fL1mED4k_g5VYDJg | 2026-11-15 | "How to Build a Tsunami-Proof Tower" (2.4M)
+- Mutxinda | UCJOrtLNruFGpLmgNNj2S9NA | https://www.youtube.com/channel/UCJOrtLNruFGpLmgNNj2S9NA | 2026-11-15 | "How You'd Escape Being Buried Alive" (1.1M)
