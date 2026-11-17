@@ -35,3 +35,4 @@ Format: - channel name | channel id | https://www.youtube.com/channel/<id> | fir
 - Unhinged Physics | UC-geqTUprKLTqwhqKgF2Mjg | https://www.youtube.com/channel/UC-geqTUprKLTqwhqKgF2Mjg | 2026-11-13 | "What if you were Napoleon?" (1.7M)
 - Sparkfact | UC35MjA4fL1mED4k_g5VYDJg | https://www.youtube.com/channel/UC35MjA4fL1mED4k_g5VYDJg | 2026-11-15 | "How to Build a Tsunami-Proof Tower" (2.4M)
 - Mutxinda | UCJOrtLNruFGpLmgNNj2S9NA | https://www.youtube.com/channel/UCJOrtLNruFGpLmgNNj2S9NA | 2026-11-15 | "How You'd Escape Being Buried Alive" (1.1M)
+- Motorvion | UCgOttsNx_b738KvFUa13Jdg | https://www.youtube.com/channel/UCgOttsNx_b738KvFUa13Jdg | 2026-11-17 | "What Happens If You Shift Into Reverse at High Speed?" (1.1M)
