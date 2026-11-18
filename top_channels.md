@@ -36,3 +36,5 @@ Format: - channel name | channel id | https://www.youtube.com/channel/<id> | fir
 - Sparkfact | UC35MjA4fL1mED4k_g5VYDJg | https://www.youtube.com/channel/UC35MjA4fL1mED4k_g5VYDJg | 2026-11-15 | "How to Build a Tsunami-Proof Tower" (2.4M)
 - Mutxinda | UCJOrtLNruFGpLmgNNj2S9NA | https://www.youtube.com/channel/UCJOrtLNruFGpLmgNNj2S9NA | 2026-11-15 | "How You'd Escape Being Buried Alive" (1.1M)
 - Motorvion | UCgOttsNx_b738KvFUa13Jdg | https://www.youtube.com/channel/UCgOttsNx_b738KvFUa13Jdg | 2026-11-17 | "What Happens If You Shift Into Reverse at High Speed?" (1.1M)
+- House In Crisis | UC6JSF1Axa6yHBGz9bQl0R7g | https://www.youtube.com/channel/UC6JSF1Axa6yHBGz9bQl0R7g | 2026-11-18 | "What If You Built A Horse With A Human Body!?" (1.8M)
+- Yasin Arafat | UCa2cG_GmRBag0oGfGS6ue1A | https://www.youtube.com/channel/UCa2cG_GmRBag0oGfGS6ue1A | 2026-11-18 | "What Happens If a Bird Breaks Its Beak?" (1.3M)
