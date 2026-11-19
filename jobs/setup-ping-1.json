@@ -1,1 +1,0 @@
-{"requests":[{"name":"channel","method":"GET","path":"channels","params":{"part":"snippet","mine":"true"}}]}
