@@ -1,0 +1,6 @@
+{
+ "ok": false,
+ "error": "setup_missing: secrets not set: YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN",
+ "finished": "2026-11-23T22:52:55Z",
+ "job": "20261123-2253-step0"
+}
