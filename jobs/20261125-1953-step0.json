@@ -1,0 +1,80 @@
+{
+ "requests": [
+  {
+   "name": "mine",
+   "method": "GET",
+   "path": "search",
+   "params": {
+    "part": "snippet",
+    "forMine": "true",
+    "type": "video",
+    "maxResults": "50",
+    "order": "date",
+    "fields": "items(id/videoId,snippet/title)"
+   }
+  },
+  {
+   "name": "r1",
+   "method": "GET",
+   "path": "search",
+   "params": {
+    "part": "snippet",
+    "q": "what if you #shorts",
+    "type": "video",
+    "videoDuration": "short",
+    "order": "viewCount",
+    "publishedAfter": "2026-11-18T19:53:58Z",
+    "regionCode": "US",
+    "relevanceLanguage": "en",
+    "maxResults": "15",
+    "fields": "items(id/videoId,snippet/title,snippet/channelId,snippet/channelTitle)"
+   }
+  },
+  {
+   "name": "r2",
+   "method": "GET",
+   "path": "search",
+   "params": {
+    "part": "snippet",
+    "q": "how to survive #shorts",
+    "type": "video",
+    "videoDuration": "short",
+    "order": "viewCount",
+    "publishedAfter": "2026-11-18T19:53:58Z",
+    "regionCode": "US",
+    "relevanceLanguage": "en",
+    "maxResults": "15",
+    "fields": "items(id/videoId,snippet/title,snippet/channelId,snippet/channelTitle)"
+   }
+  },
+  {
+   "name": "r3",
+   "method": "GET",
+   "path": "search",
+   "params": {
+    "part": "snippet",
+    "q": "what would you do if #shorts",
+    "type": "video",
+    "videoDuration": "short",
+    "order": "viewCount",
+    "publishedAfter": "2026-11-18T19:53:58Z",
+    "regionCode": "US",
+    "relevanceLanguage": "en",
+    "maxResults": "15",
+    "fields": "items(id/videoId,snippet/title,snippet/channelId,snippet/channelTitle)"
+   }
+  },
+  {
+   "name": "comments",
+   "method": "GET",
+   "path": "commentThreads",
+   "params": {
+    "part": "snippet,replies",
+    "allThreadsRelatedToChannelId": "UCSblVctiUdC1QnbeZ3iu56g",
+    "maxResults": "50",
+    "order": "time",
+    "textFormat": "plainText"
+   }
+  }
+ ]
+}
